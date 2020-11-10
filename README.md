@@ -1,8 +1,13 @@
-### Hi there 👋. I'm David
-
-
+<!-- ### Hi there 👋. I'm David -->
 <img src="https://raw.githubusercontent.com/davidsirvent/davidsirvent/main/github_banner.png" alt="David Sirvent alongside a pixel illustration of David">
 
+Currently I work in the commercial area for a software consultancy specialized in business management systems (ERP).
+
+Programmed in Python, C #, Java (desktop and android) and HTML + CSS + Javascript. I have experience with different frameworks like Flask, Bootstrap or Selenium, and I am also learning about cybersecurity.
+
+Right now I'm looking for programming projects where I can apply what I learned years ago.
+
+If you want to contact me, do not hesitate, send me an email and I will be happy to talk to you.
 
 <!--
 **davidsirvent/davidsirvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
