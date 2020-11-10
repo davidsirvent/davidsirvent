@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm David
 
 
-
+<img src="https://raw.githubusercontent.com/davidsirvent/davidsirvent/main/github_banner.png" alt="David Sirvent alongside a pixel illustration of David">
 
 
 <!--
