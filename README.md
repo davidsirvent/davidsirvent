@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋. I'm David -->
 <img src="https://raw.githubusercontent.com/davidsirvent/davidsirvent/main/github_banner.png" alt="David Sirvent alongside a pixel illustration of David">
 
-Currently I'm working in the commercial area for a software consultancy specialized in business management systems (ERP).
+Currently I'm working as technical assistance and commercial area for a software consultancy specialized in business management systems (ERP).
 
 Programmed in Python, C #, Flutter and Web (HTML + CSS + Javascript). I have experience with different frameworks like Flask, Bootstrap or Selenium, and I am also learning about cybersecurity.
 
