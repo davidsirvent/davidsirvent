@@ -5,7 +5,7 @@ I am currently working as a developer and IT service for a manufacturing company
 
 Before that, I was working as technical assistance and commercial area for a software consultancy specialized in business management systems (ERP).
 
-Programmed in Python, C #, Flutter and Web (HTML + CSS + Javascript). I have experience with different frameworks like Flask, Bootstrap or Selenium, and I am also learning about cybersecurity.
+Programmed in Python, C #, WebDev (PC-Soft), Flutter and Web (HTML + CSS + Javascript). I have experience with different frameworks like Flask, Bootstrap or Selenium, and I am also learning about cybersecurity.
 
 If you want to contact me, do not hesitate, send me an email and I will be happy to talk to you.
 
