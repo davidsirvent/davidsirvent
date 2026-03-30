@@ -1,3 +1,11 @@
+💻 Curioso por la tecnología en general, siempre explorando nuevas herramientas y métodos.
+
+🐍 Especializado en desarrollo con Python, disfruto creando soluciones que de verdad sean útiles.
+
+🛠️ También me dedico a la administración de sistemas, manteniendo entornos estables y limpios.
+
+🚀 En constante aprendizaje, porque en este mundo siempre hay algo nuevo que investigar.
+
 <!-- ### Hi there 👋. I'm David -->
 
 <!--
