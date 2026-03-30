@@ -1,6 +1,6 @@
 💻 Curioso por la tecnología en general, siempre explorando nuevas herramientas y métodos.
 
-🐍 Especializado en desarrollo con Python, disfruto creando soluciones que de verdad sean útiles.
+🤖 Especializado en desarrollo con Python, disfruto creando soluciones que de verdad sean útiles.
 
 🛠️ También me dedico a la administración de sistemas, manteniendo entornos estables y limpios.
 
